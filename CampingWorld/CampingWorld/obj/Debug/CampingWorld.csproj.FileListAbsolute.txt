@@ -1,0 +1,16 @@
+C:\Users\Brett\source\repos\CampingWorld\CampingWorld\bin\Debug\CampingWorld.exe.config
+C:\Users\Brett\source\repos\CampingWorld\CampingWorld\bin\Debug\CampingWorld.exe
+C:\Users\Brett\source\repos\CampingWorld\CampingWorld\bin\Debug\CampingWorld.pdb
+C:\Users\Brett\source\repos\CampingWorld\CampingWorld\bin\Debug\MySql.Data.dll
+C:\Users\Brett\source\repos\CampingWorld\CampingWorld\bin\Debug\Google.Protobuf.dll
+C:\Users\Brett\source\repos\CampingWorld\CampingWorld\bin\Debug\MySql.Data.xml
+C:\Users\Brett\source\repos\CampingWorld\CampingWorld\obj\Debug\CampingWorld.csprojResolveAssemblyReference.cache
+C:\Users\Brett\source\repos\CampingWorld\CampingWorld\obj\Debug\CampingWorld.Form1.resources
+C:\Users\Brett\source\repos\CampingWorld\CampingWorld\obj\Debug\CampingWorld.Properties.Resources.resources
+C:\Users\Brett\source\repos\CampingWorld\CampingWorld\obj\Debug\CampingWorld.csproj.GenerateResource.cache
+C:\Users\Brett\source\repos\CampingWorld\CampingWorld\obj\Debug\CampingWorld.csproj.CoreCompileInputs.cache
+C:\Users\Brett\source\repos\CampingWorld\CampingWorld\obj\Debug\CampingWorld.csproj.CopyComplete
+C:\Users\Brett\source\repos\CampingWorld\CampingWorld\obj\Debug\CampingWorld.exe
+C:\Users\Brett\source\repos\CampingWorld\CampingWorld\obj\Debug\CampingWorld.pdb
+C:\Users\Brett\source\repos\CampingWorld\CampingWorld\obj\Debug\CampingWorld.Update.resources
+C:\Users\Brett\source\repos\CampingWorld\CampingWorld\obj\Debug\CampingWorld.Add.resources
